@@ -1,0 +1,9 @@
+{
+  "name": "workflow_demo",
+  "version": "1.0.0",
+  "author": "wuxx",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

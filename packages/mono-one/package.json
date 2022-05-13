@@ -1,0 +1,13 @@
+{
+    "name": "@wuxx/mono-one",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "author": "wuxx",
+    "files": [
+      "lib/"
+    ],
+    "main": "lib/index.js",
+    "scripts": {}
+  }
+  
